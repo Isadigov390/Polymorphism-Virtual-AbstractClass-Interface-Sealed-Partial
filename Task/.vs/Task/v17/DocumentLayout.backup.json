@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\programming langs\\c#\\pb502\\polymorphism-virtual-abstractclass-interface-sealed-partial\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\programming langs\\c#\\pb502\\polymorphism-virtual-abstractclass-interface-sealed-partial\\task\\task\\classes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|solutionrelative:task\\classes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\programming langs\\c#\\pb502\\polymorphism-virtual-abstractclass-interface-sealed-partial\\task\\task\\classes\\rectangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|solutionrelative:task\\classes\\rectangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\programming langs\\c#\\pb502\\polymorphism-virtual-abstractclass-interface-sealed-partial\\task\\task\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|solutionrelative:task\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\programming langs\\c#\\pb502\\polymorphism-virtual-abstractclass-interface-sealed-partial\\task\\task\\classes\\designstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|solutionrelative:task\\classes\\designstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\programming langs\\c#\\pb502\\polymorphism-virtual-abstractclass-interface-sealed-partial\\task\\task\\classes\\programmingstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|solutionrelative:task\\classes\\programmingstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\programming langs\\c#\\pb502\\polymorphism-virtual-abstractclass-interface-sealed-partial\\task\\task\\classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|solutionrelative:task\\classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangular.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\Rectangular.cs",
+              "RelativeDocumentMoniker": "Task\\Classes\\Rectangular.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\Rectangular.cs",
+              "RelativeToolTip": "Task\\Classes\\Rectangular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:43:58.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\Square.cs",
+              "RelativeDocumentMoniker": "Task\\Classes\\Square.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\Square.cs",
+              "RelativeToolTip": "Task\\Classes\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:26:51.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\Figure.cs",
+              "RelativeDocumentMoniker": "Task\\Classes\\Figure.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\Figure.cs",
+              "RelativeToolTip": "Task\\Classes\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:22:12.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\Student.cs",
+              "RelativeDocumentMoniker": "Task\\Classes\\Student.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\Student.cs",
+              "RelativeToolTip": "Task\\Classes\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:16:27.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignStudent.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\DesignStudent.cs",
+              "RelativeDocumentMoniker": "Task\\Classes\\DesignStudent.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\DesignStudent.cs",
+              "RelativeToolTip": "Task\\Classes\\DesignStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:14:05.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgrammingStudent.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\ProgrammingStudent.cs",
+              "RelativeDocumentMoniker": "Task\\Classes\\ProgrammingStudent.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Classes\\ProgrammingStudent.cs",
+              "RelativeToolTip": "Task\\Classes\\ProgrammingStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:13:44.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Program.cs*",
+              "RelativeToolTip": "Task\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:11:34.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
