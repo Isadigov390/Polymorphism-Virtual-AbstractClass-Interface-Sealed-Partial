@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\programming langs\\c#\\pb502\\polymorphism-virtual-abstractclass-interface-sealed-partial\\task\\task\\extensions\\intpolindromeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|solutionrelative:task\\extensions\\intpolindromeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\programming langs\\c#\\pb502\\polymorphism-virtual-abstractclass-interface-sealed-partial\\task\\task\\extensions\\stringwordcountextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{001E3DA9-7981-4D5D-8EB0-6F6354126824}|Task\\Task.csproj|solutionrelative:task\\extensions\\stringwordcountextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IntPolindromeExtension.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Extensions\\IntPolindromeExtension.cs",
+              "RelativeDocumentMoniker": "Task\\Extensions\\IntPolindromeExtension.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Extensions\\IntPolindromeExtension.cs",
+              "RelativeToolTip": "Task\\Extensions\\IntPolindromeExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:46:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StringWordCountExtension.cs",
               "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Extensions\\StringWordCountExtension.cs",
               "RelativeDocumentMoniker": "Task\\Extensions\\StringWordCountExtension.cs",
@@ -34,8 +51,7 @@
               "RelativeToolTip": "Task\\Extensions\\StringWordCountExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:15:33.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T15:15:33.365Z"
             },
             {
               "$type": "Document",
@@ -45,7 +61,7 @@
               "RelativeDocumentMoniker": "Task\\Program.cs",
               "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\programming langs\\c#\\PB502\\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\\Task\\Task\\Program.cs",
               "RelativeToolTip": "Task\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T13:44:38.886Z",
               "EditorCaption": ""

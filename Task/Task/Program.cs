@@ -39,9 +39,11 @@ Rectangular rectangular = new Rectangular(1,1);
 //}
 //while (isContinue);
 
-string st= "Salam Kamran. Necəsən Kamran ", word= "Kamran";
+//string st = "isa salam isa isa ay isa salam ", word = "Kamran";
+//Console.WriteLine(st.MatchCount("salam"));
 
-Console.WriteLine(st.MatchCount("Kamran"));
+int a = 1221;
+Console.WriteLine(a.IsPolindrome());
 
 
 
