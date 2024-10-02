@@ -12,3 +12,4 @@ C:\Users\asusr\OneDrive\Desktop\programming langs\c#\PB502\Polymorphism-Virtual-
 C:\Users\asusr\OneDrive\Desktop\programming langs\c#\PB502\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\Task\Task\obj\Debug\net8.0\Task.pdb
 C:\Users\asusr\OneDrive\Desktop\programming langs\c#\PB502\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\Task\Task\obj\Debug\net8.0\Task.genruntimeconfig.cache
 C:\Users\asusr\OneDrive\Desktop\programming langs\c#\PB502\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\Task\Task\obj\Debug\net8.0\ref\Task.dll
+C:\Users\asusr\OneDrive\Desktop\programming langs\c#\PB502\Polymorphism-Virtual-AbstractClass-Interface-Sealed-Partial\Task\Task\obj\Debug\net8.0\Task.sourcelink.json
