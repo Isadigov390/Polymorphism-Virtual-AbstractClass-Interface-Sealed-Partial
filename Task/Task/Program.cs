@@ -42,12 +42,15 @@ Rectangular rectangular = new Rectangular(1,1);
 //string st = "isa salam isa isa ay isa salam ", word = "Kamran";
 //Console.WriteLine(st.MatchCount("salam"));
 
-int a = 1221;
-Console.WriteLine(a.IsPolindrome());
+//int a = 1221;
+//Console.WriteLine(a.IsPolindrome());
 
-
-
-
+//Kelvin kelvin = new Kelvin(1000);
+//Celsius celsius = kelvin;
+//Console.WriteLine(celsius.Degree);
+//Celsius celsius = new Celsius(0);
+//Kelvin kelvin = celsius;
+//Console.WriteLine(kelvin.Degree);
 
 
 
