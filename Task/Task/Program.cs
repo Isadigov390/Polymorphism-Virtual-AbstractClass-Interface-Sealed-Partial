@@ -1,11 +1,8 @@
-﻿
-
-using System.Text.RegularExpressions;
-using Task.Classes;
+﻿using Task.Classes;
 using Task.Extensions;
-bool isContinue=true;
-Square square = new Square(1);
-Rectangular rectangular = new Rectangular(1,1);
+//bool isContinue=true;
+//Square square = new Square(1);
+//Rectangular rectangular = new Rectangular(1,1);
 //do
 //{
 //    Console.WriteLine("Menu \n 1. Square\r\n2. Rectangular\r\n0. Quit\r\n");
@@ -53,4 +50,21 @@ Rectangular rectangular = new Rectangular(1,1);
 //Console.WriteLine(kelvin.Degree);
 
 
+
+//StudentTask5 student = new StudentTask5("Isa Sadigov","P123",18);
+//Console.WriteLine(StudentTask5.CheckGroupNo(student.GroupNo));
+//Console.WriteLine(StudentTask5.CheckFullName(student.Fullname));
+//string a = "f2gr1";
+//Console.WriteLine(a.IsContainsDigit());
+//string b = "SALAM";
+//Console.WriteLine(b.ToCapitalize());
+
+//string c = "salam qa";
+//int [] res=c.GetValueIndexes('a');
+//for (int i = 0; i < res.Length; i++) Console.WriteLine(res[i]);
+
+//string d = "isa salam necesen?";
+//Console.WriteLine(d.GetFirstSentence());
+string e = " df";
+Console.WriteLine(e.GetSecondWord());
 
